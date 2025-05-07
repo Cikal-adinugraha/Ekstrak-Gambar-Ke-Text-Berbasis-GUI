@@ -1,0 +1,1 @@
+# Ekstrak-Gambar-Ke-Text-Berbasis-GUI
